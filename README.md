@@ -6,6 +6,6 @@
 
 ###
 
-<h1 align="left">o(˶^▾^˶ )o</h1>
+<p align="left">o(˶^▾^˶ )o</p>
 
 ###
