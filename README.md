@@ -6,6 +6,6 @@
 
 ###
 
-<p align="left">o(˶^▾^˶ )o</p>
+<p align="left">══════</p>
 
 ###
