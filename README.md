@@ -6,10 +6,3 @@
 
 ###
 
-<p align="left">═══════════════════</p>
-
-###
-
-<div align="left"> <img src="https://profile-counter.glitch.me/vetlosya/count.svg?" /> </div>
-
-###
