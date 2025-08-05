@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img height="180" src="https://i.ibb.co/yFc1VBsf/Untitled170-20250725190231.png" alt="Untitled170-20250725190231"  />
+  <img height="180" src="https://i.ibb.co/fzRr4bqx/Untitled593-20250805162324.png" alt="Untitled170-20250725190231"  />
 </div>
 
 <p align="center">cr: sillysockii</p>
