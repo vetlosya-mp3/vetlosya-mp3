@@ -1,15 +1,15 @@
 <div align="center">
-  <img height="15" src="https://64.media.tumblr.com/008a6731abb0e2b079b02e61d95a61d8/5bc533c11613f9df-15/s1280x1920/1871928696037796f932a39fd3309569042e5d73.pnj"  />
+  <img height="40" src="https://i.ibb.co/ccZ9S8zZ/tumblr-33270078eea95e309f5d4d95b7e22929-0706716d-540.png"  />
 </div>
 
 ###
 
 <div align="center">
-  <img height="180" src="https://i.ibb.co/fzRr4bqx/Untitled593-20250805162324.png" alt="Untitled170-20250725190231"  />
+  <img height="67" src="https://i.ibb.co/XfCp1FzG/tumblr-916717822d62e989a7a703909650ef28-6eb7e19e-2048.png" alt="tumblr-916717822d62e989a7a703909650ef28-6eb7e19e-2048"  />
 </div>
 
 ###
 
 <div align="center">
-  <img height="15" src="https://64.media.tumblr.com/008a6731abb0e2b079b02e61d95a61d8/5bc533c11613f9df-15/s1280x1920/1871928696037796f932a39fd3309569042e5d73.pnj"  />
+  <img height="40" src="https://i.ibb.co/XxsHSFgD/tumblr-99d71b768be6d5f3c3f45852f2dccf91-b5a9f2f0-540.png"  />
 </div>
