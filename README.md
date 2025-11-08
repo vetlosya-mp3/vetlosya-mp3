@@ -1,6 +1,6 @@
 <p align="center">,─────────────────────────────────────────────────────,</p>
 <div align="center">
-  <img height="34" src="https://i.ibb.co/DgKzyCpT/tumblr-4d18d58c9b0daa7b3785f881ac35af2d-844e3d1b-640.webp" alt="tumblr-4d18d58c9b0daa7b3785f881ac35af2d-844e3d1b-640)"  />
+  <img height="32" src="https://i.ibb.co/DgKzyCpT/tumblr-4d18d58c9b0daa7b3785f881ac35af2d-844e3d1b-640.webp" alt="tumblr-4d18d58c9b0daa7b3785f881ac35af2d-844e3d1b-640)"  />
 <div align="center">
   <img height="38" src="https://i.ibb.co/ccZ9S8zZ/tumblr-33270078eea95e309f5d4d95b7e22929-0706716d-540.png"  />
 </div>
@@ -43,5 +43,5 @@
   <img height="38" src="https://i.ibb.co/XxsHSFgD/tumblr-99d71b768be6d5f3c3f45852f2dccf91-b5a9f2f0-540.png"  />
 </div>
 <div align="center">
-  <img height="34" src="https://i.ibb.co/DgKzyCpT/tumblr-4d18d58c9b0daa7b3785f881ac35af2d-844e3d1b-640.webp" alt="tumblr-4d18d58c9b0daa7b3785f881ac35af2d-844e3d1b-640)"  />
+  <img height="32" src="https://i.ibb.co/DgKzyCpT/tumblr-4d18d58c9b0daa7b3785f881ac35af2d-844e3d1b-640.webp" alt="tumblr-4d18d58c9b0daa7b3785f881ac35af2d-844e3d1b-640)"  />
 <p align="center">'─────────────────────────────────────────────────────'</p>
